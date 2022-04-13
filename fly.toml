@@ -1,4 +1,4 @@
-app = "pr0gstar-blog-6fbd"
+app = "pr0gstar-blog"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
