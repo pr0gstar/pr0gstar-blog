@@ -7,6 +7,10 @@ export default function Index() {
       <Link to="/posts" className="text-xl1 text-blue-600 underline">
         Blog Posts
       </Link>
+      <br />
+      <Link to="/admin" className="text-xl1 text-red-600 underline">
+        Admin
+      </Link>
     </div>
   );
 }
